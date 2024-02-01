@@ -1,0 +1,200 @@
+a:
+- href: https://play.google.com/store/search?q=pub%3APrak%20EnTech&c=apps
+- href: http://127.0.0.1:5500/
+b:
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+body:
+- {}
+br:
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+div:
+- data-reactroot: ''
+  id: __next
+- class:
+  - test
+  id: test
+  style: display:flex;flex-direction:column;align-items:center;justify-content:center
+- class:
+  - page
+  id: page1
+  style: position:relative;left:0rem;top:0rem;min-height:11in;height:auto;margin:0;padding:0;display:flex;flex-direction:column;justify-content:space-between
+- class: []
+  id: p1header
+  style: display:flex;flex-direction:column;align-items:center;justify-content:center
+- class: []
+  id: p1body
+  style: display:flex;flex-direction:row;flex-wrap:wrap;align-items:center;justify-content:space-between;padding:0.5rem;margin-left:20px;margin-right:20px
+- class: []
+  id: page1BodyLeft
+  style: flex:1 1 14rem;display:flex;flex-direction:column;align-items:center;gap:0.25rem
+- class: []
+  id: page1BodyRight
+  style: flex:1 1 32rem;display:flex;flex-direction:column;justify-content:space-between;align-items:left
+- class:
+  - zeropara
+- class:
+  - zeropara1
+- class: []
+  id: p1footer
+  style: display:flex;flex-direction:row;align-items:center;justify-content:center;gap:0.2rem;background-color:#e30e0e
+- class:
+  - page
+  id: page2
+  style: position:relative;left:0rem;top:0rem;min-height:11in;height:auto;margin:0;padding:0;display:flex;flex-direction:column;justify-content:space-between
+- class: []
+  id: p1header
+  style: display:flex;flex-direction:column;align-items:center;justify-content:center
+- class: []
+  id: p1body
+  style: display:flex;flex-direction:row;flex-wrap:wrap;align-items:center;justify-content:space-between;padding:0.5rem;margin-left:20px;margin-right:20px
+- class: []
+  id: page1BodyLeft
+  style: flex:1 1 14rem;display:flex;flex-direction:column;align-items:center;gap:0.25rem
+- class: []
+  id: page1BodyRight
+  style: flex:1 1 32rem;display:flex;flex-direction:column;justify-content:space-between;align-items:left
+- class:
+  - zeropara1
+- class: []
+  id: p1footer
+  style: display:flex;flex-direction:row;align-items:center;justify-content:center;gap:0.2rem;background-color:#e30e0e
+head:
+- {}
+html:
+- {}
+i:
+- {}
+- {}
+- {}
+- {}
+- {}
+noscript:
+- data-n-css: ''
+span:
+- class: []
+  id: p1himage1
+  style: background-repeat:no-repeat;background-size:cover;background-position:center
+    center;z-index:2;width:100%;height:6.25rem;margin:0.5rem;background-image:url('img/image-000.png')
+- class: []
+  id: p1hline1
+  style: color:#cd0f13;text-align:center;font-family:ebrimabd;font-size:1rem;z-index:6
+- class: []
+  id: p1himage2
+  style: background-repeat:no-repeat;background-size:cover;background-position:center
+    center;z-index:2;width:100%;height:18.3rem;background-image:url('img/xmas-banner4.png')
+- class: []
+  id: p1blHeader
+  style: z-index:3;line-height:1;font-size:21px;font-family:times-new-roman-bold;color:#cd0f13;font-weight:500;text-align:center;align-self:flex-start
+- data-param-slot-name: mw_alias
+  data-slot: dwc
+- class: []
+  id: p1blSec1Text1
+  style: z-index:3;text-align:justify;line-height:1.2;font-size:15px;font-family:times-new-roman-italic;color:#181715;padding-top:0.5rem;padding-bottom:0.5rem
+- class: []
+  id: p1blSec4Header
+  style: z-index:3;text-align:center;font-weight:600;line-height:1;font-size:18px;font-family:times-new-roman-bold;color:#cd0f13
+- class: []
+  id: p1blSec4Text
+  style: z-index:3;text-align:center;font-size:11px;font-family:times-new-roman;color:#181715;margin-top:-0.3rem
+- style: color:#cd0f13
+- class:
+  - p1brimage4
+  id: p1brimage4
+  style: width:100%;height:12rem;background-repeat:no-repeat;background-size:cover;z-index:2;background-position:center
+    center;background-image:url('img/img.jpg')
+- class: []
+  id: p1brText1
+  style: z-index:3;text-align:justify;line-height:1.5;font-size:0.875rem;font-family:calibri;color:black;margin-bottom:1rem;margin-top:0.4rem
+- class: []
+  id: p1brtext2
+  style: z-index:3;text-align:center;line-height:1;font-size:1.75rem;font-family:arialBoldItalic;color:black;background:none;transform-origin:9.8
+    3.5;transform:rotate(-2deg)
+- class: []
+  id: p1brTextBold
+  style: z-index:3;text-align:justify;line-height:1.3;font-size:1.2rem;font-family:calibribold;color:black;margin-top:1rem;margin-bottom:1rem
+- class: []
+  id: footerText
+  style: z-index:3;align-items:center;justify-content:center;display:flex;padding:0.5rem;font-size:1.15rem;font-family:times-new-roman;color:#f5f0f0;float:none;text-align:center
+- class: []
+  id: p1himage1
+  style: background-repeat:no-repeat;background-size:cover;background-position:center
+    center;z-index:2;width:100%;height:6.25rem;margin:0.5rem;background-image:url('img/image-001.png')
+- class: []
+  id: p1hline1
+  style: color:#cd0f13;text-align:center;font-family:ebrimabd;font-size:1rem;z-index:6
+- class: []
+  id: p1himage2
+  style: background-repeat:no-repeat;background-size:cover;background-position:center
+    center;z-index:2;width:100%;height:18rem;background-image:url('img/xmas-banner5.png')
+- class: []
+  id: p1blAccessMyMessage
+- class: []
+  id: p1blHeader
+  style: z-index:3;line-height:1;font-size:21px;font-family:times-new-roman-bold;color:#cd0f13;font-weight:500;text-align:center;align-self:flex-start
+- data-param-slot-name: mw_alias
+  data-slot: dwc
+- class: []
+  id: p1blSec1Text1
+  style: z-index:3;text-align:justify;line-height:1.2;font-size:15px;font-family:times-new-roman-italic;color:#181715;padding-top:0.5rem;padding-bottom:0.5rem
+- class: []
+  id: p1blSec4Header
+  style: z-index:3;text-align:center;font-weight:600;line-height:1;font-size:18px;font-family:times-new-roman-bold;color:#cd0f13
+- class: []
+  id: p1blSec4Text
+  style: z-index:3;text-align:center;font-size:11px;font-family:times-new-roman;color:#181715;margin-top:-0.3rem
+- style: color:#cd0f13
+- class: []
+  id: p1brText1
+  style: z-index:3;text-align:justify;line-height:1.5;font-size:0.875rem;font-family:calibri;color:black;margin-bottom:1rem;margin-top:0.4rem
+- class: []
+  id: p1brtext2
+  style: z-index:3;text-align:center;line-height:1;font-size:1.75rem;font-family:arialBoldItalic;color:black;background:none;transform-origin:9.8
+    3.5;transform:rotate(-2deg)
+- class: []
+  id: p1brTextBold
+  style: z-index:3;text-align:justify;line-height:1.3;font-size:1.2rem;font-family:calibribold;color:black;margin-top:1rem;margin-bottom:1rem
+- class: []
+  id: footerText
+  style: z-index:3;align-items:center;justify-content:center;display:flex;padding:0.5rem;font-size:1.25rem;font-family:times-new-roman;color:#f5f0f0;float:none;text-align:center
+- id: endofdoc
+- id: endofdoc
+title:
+- {}
