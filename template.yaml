@@ -1,0 +1,286 @@
+- - - test
+    - classname: test
+      css:
+        align-items: center
+        display: flex
+        flex-direction: column
+        justify-content: center
+      type: div
+  - - page1
+    - classname: page
+      css:
+        display: flex
+        flex-direction: column
+        height: auto
+        justify-content: space-between
+        left: 0rem
+        margin: '0'
+        min-height: 11in
+        padding: '0'
+        position: relative
+        top: 0rem
+      type: div
+  - - p1header
+    - classname: ''
+      css:
+        align-items: center
+        display: flex
+        flex-direction: column
+        justify-content: center
+      type: div
+  - - p1himage1
+    - classname: ''
+      css:
+        background-image: url('img/image-001.png')
+        background-position: center center
+        background-repeat: no-repeat
+        background-size: cover
+        height: 6.25rem
+        margin: 0.5rem
+        width: 100%
+        z-index: '2'
+      type: span
+  - - p1hline1
+    - classname: ''
+      css:
+        color: '#cd0f13'
+        font-family: ebrimabd
+        font-size: 1rem
+        text-align: center
+        z-index: '6'
+      type: span
+  - - p1himage2
+    - classname: ''
+      css:
+        background-image: url('img/xmas-banner5.png')
+        background-position: center center
+        background-repeat: no-repeat
+        background-size: cover
+        height: 18rem
+        width: 100%
+        z-index: '2'
+      type: span
+  - - p1body
+    - classname: ''
+      css:
+        align-items: center
+        display: flex
+        flex-direction: row
+        flex-wrap: wrap
+        justify-content: space-between
+        margin-left: 20px
+        margin-right: 20px
+        padding: 0.5rem
+      type: div
+  - - page1BodyLeft
+    - classname: ''
+      css:
+        align-items: center
+        display: flex
+        flex: 1 1 14rem
+        flex-direction: column
+        gap: 0.25rem
+      type: div
+  - - p1blHeader
+    - classname: ''
+      css:
+        align-self: flex-start
+        color: '#cd0f13'
+        font-family: times-new-roman-bold
+        font-size: 21px
+        font-weight: '500'
+        line-height: '1'
+        text-align: center
+        z-index: '3'
+      type: span
+  - - p1blSec1Text1
+    - classname: ''
+      css:
+        color: '#181715'
+        font-family: times-new-roman-italic
+        font-size: 15px
+        line-height: '1.2'
+        padding-bottom: 0.5rem
+        padding-top: 0.5rem
+        text-align: justify
+        z-index: '3'
+      type: span
+  - - p1blSec4Header
+    - classname: ''
+      css:
+        color: '#cd0f13'
+        font-family: times-new-roman-bold
+        font-size: 18px
+        font-weight: '600'
+        line-height: '1'
+        text-align: center
+        z-index: '3'
+      type: span
+  - - p1blSec4Text
+    - classname: ''
+      css:
+        color: '#181715'
+        font-family: times-new-roman
+        font-size: 11px
+        margin-top: -0.3rem
+        text-align: center
+        z-index: '3'
+      type: span
+  - - page1BodyRight
+    - classname: ''
+      css:
+        align-items: left
+        display: flex
+        flex: 1 1 32rem
+        flex-direction: column
+        justify-content: space-between
+      type: div
+  - - p1brimage4
+    - classname: p1brimage4
+      css:
+        background-image: url('img/img.jpg')
+        background-position: center center
+        background-repeat: no-repeat
+        background-size: cover
+        height: 12rem
+        width: 100%
+        z-index: '2'
+      type: span
+  - - p1brText1
+    - classname: ''
+      css:
+        color: black
+        font-family: calibri
+        font-size: 0.875rem
+        line-height: '1.5'
+        margin-bottom: 1rem
+        margin-top: 0.4rem
+        text-align: justify
+        z-index: '3'
+      type: span
+  - - p1brtext2
+    - classname: ''
+      css:
+        background: none
+        color: black
+        font-family: arialBoldItalic
+        font-size: 1.75rem
+        line-height: '1'
+        text-align: center
+        transform: rotate(-2deg)
+        transform-origin: 9.8 3.5
+        z-index: '3'
+      type: span
+  - - p1brTextBold
+    - classname: ''
+      css:
+        color: black
+        font-family: calibribold
+        font-size: 1.2rem
+        line-height: '1.3'
+        margin-bottom: 1rem
+        margin-top: 1rem
+        text-align: justify
+        z-index: '3'
+      type: span
+  - - p1footer
+    - classname: ''
+      css:
+        align-items: center
+        background-color: '#e30e0e'
+        display: flex
+        flex-direction: row
+        gap: 0.2rem
+        justify-content: center
+      type: div
+  - - footerText
+    - classname: ''
+      css:
+        align-items: center
+        color: '#f5f0f0'
+        display: flex
+        float: none
+        font-family: times-new-roman
+        font-size: 1.25rem
+        justify-content: center
+        padding: 0.5rem
+        text-align: center
+        z-index: '3'
+      type: span
+  - - page2
+    - classname: page
+      css:
+        display: flex
+        flex-direction: column
+        height: auto
+        justify-content: space-between
+        left: 0rem
+        margin: '0'
+        min-height: 11in
+        padding: '0'
+        position: relative
+        top: 0rem
+      type: div
+  - - p2header
+    - classname: ''
+      css:
+        align-items: center
+        display: flex
+        flex-direction: column
+        justify-content: center
+      type: div
+  - - p2body
+    - classname: ''
+      css:
+        align-items: center
+        display: flex
+        flex-direction: row
+        flex-wrap: wrap
+        justify-content: space-between
+        margin-left: 20px
+        margin-right: 20px
+        padding: 0.5rem
+      type: div
+  - - page2BodyLeft
+    - classname: ''
+      css:
+        align-items: center
+        display: flex
+        flex: 1 1 14rem
+        flex-direction: column
+        gap: 0.25rem
+      type: div
+  - - p1blAccessMyMessage
+    - classname: ''
+      css: ''
+      type: span
+  - - p2blSec4Header
+    - classname: ''
+      css:
+        color: '#cd0f13'
+        font-family: times-new-roman-bold
+        font-size: 18px
+        font-weight: '600'
+        line-height: '1'
+        text-align: center
+        z-index: '3'
+      type: span
+  - - page2BodyRight
+    - classname: ''
+      css:
+        align-items: left
+        display: flex
+        flex: 1 1 32rem
+        flex-direction: column
+        justify-content: space-between
+      type: div
+  - - p2footer
+    - classname: ''
+      css:
+        align-items: center
+        background-color: '#e30e0e'
+        display: flex
+        flex-direction: row
+        gap: 0.2rem
+        justify-content: center
+      type: div
